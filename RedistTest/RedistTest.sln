@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedistTest", "RedistTest\RedistTest.csproj", "{FC09BFAB-35B4-4667-9468-7C28D6811B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC09BFAB-35B4-4667-9468-7C28D6811B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC09BFAB-35B4-4667-9468-7C28D6811B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC09BFAB-35B4-4667-9468-7C28D6811B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC09BFAB-35B4-4667-9468-7C28D6811B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F98A27-7D6D-4A57-85CA-67A0C9CD4B4A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pEBHm6NU7g13P3DajLe2bYAeT6M4z/IEoCFT0rCwPnk=",
+  "Source": "ApiRequest",
+  "BasePath": "_content/ApiRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

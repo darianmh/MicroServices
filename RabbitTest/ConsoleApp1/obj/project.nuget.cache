@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0zouPIBMMUk9/cHvuWVCVExqOlOmo9/cpdyK16v1frbR03LXLcTOAqlGfKPiIcGc05kMv5QyZlXTkB7ZB6+ong==",
+  "success": true,
+  "projectFilePath": "D:\\KashfiProjects\\DarianTestServices\\RabbitTest\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.kashfi\\.nuget\\packages\\rabbitmq.client\\6.3.1\\rabbitmq.client.6.3.1.nupkg.sha512",
+    "C:\\Users\\m.kashfi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\m.kashfi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

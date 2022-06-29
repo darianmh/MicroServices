@@ -1,0 +1,12 @@
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\bin\Release\net6.0\Domain.deps.json
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\bin\Release\net6.0\Domain.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\bin\Release\net6.0\Domain.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.csproj.AssemblyReference.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.AssemblyInfoInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.AssemblyInfo.cs
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\refint\Domain.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\Domain.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Domain\obj\Release\net6.0\ref\Domain.dll

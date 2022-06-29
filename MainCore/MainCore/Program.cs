@@ -1,5 +1,7 @@
-using MainCore.Services.Publisher;
 using MassTransit;
+using Serilog;
+using Serilog.Sinks.Elasticsearch;
+using WebCore.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,36 +9,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 //mass transit
-builder.Services.AddMassTransit(x =>
-{
-    x.UsingRabbitMq(delegate (IBusRegistrationContext context, IRabbitMqBusFactoryConfigurator configurator)
-    {
-        configurator.Host("172.16.20.14", "/", x =>
-        {
-            x.Username("admin");
-            x.Password("12345678");
-        });
-        configurator.ConfigureEndpoints(context);
-    });
-});
-builder.Services.AddOptions<MassTransitHostOptions>()
-    .Configure(options =>
-    {
-        // if specified, waits until the bus is started before
-        // returning from IHostedService.StartAsync
-        // default is false
-        options.WaitUntilStarted = true;
-
-        // if specified, limits the wait time when starting the bus
-        options.StartTimeout = TimeSpan.FromSeconds(10);
-
-        // if specified, limits the wait time when stopping the bus
-        options.StopTimeout = TimeSpan.FromSeconds(30);
-    });
+builder.UseMassTransit();
 
 
-//add services
-builder.Services.AddTransient<PublisherService>();
+
+//swagger
+builder.UseSwagger();
+
+//elastic
+builder.UseElastic();
+
+
+
 
 
 
@@ -49,6 +33,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+//swagger
+app.UseAppSwagger();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
@@ -56,6 +42,11 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+
+
+
+
 
 app.MapControllerRoute(
     name: "default",

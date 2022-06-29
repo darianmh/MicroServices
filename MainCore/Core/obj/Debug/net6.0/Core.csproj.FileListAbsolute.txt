@@ -1,0 +1,12 @@
+D:\KashfiProjects\DarianTestServices\MainCore\Core\bin\Debug\net6.0\Core.deps.json
+D:\KashfiProjects\DarianTestServices\MainCore\Core\bin\Debug\net6.0\Core.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Core\bin\Debug\net6.0\Core.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\refint\Core.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\Core.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Core\obj\Debug\net6.0\ref\Core.dll

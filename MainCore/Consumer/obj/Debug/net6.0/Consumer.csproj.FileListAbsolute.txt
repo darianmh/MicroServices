@@ -1,0 +1,15 @@
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.csproj.AssemblyReference.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.AssemblyInfoInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.AssemblyInfo.cs
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.csproj.CoreCompileInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\bin\Debug\net6.0\Consumer.exe
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\bin\Debug\net6.0\Consumer.deps.json
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\bin\Debug\net6.0\Consumer.runtimeconfig.json
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\bin\Debug\net6.0\Consumer.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\bin\Debug\net6.0\Consumer.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\refint\Consumer.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\Consumer.genruntimeconfig.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Consumer\obj\Debug\net6.0\ref\Consumer.dll

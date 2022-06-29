@@ -1,0 +1,17 @@
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Service.deps.json
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Service.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Service.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\refint\Service.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\ref\Service.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Domain.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Infrastructure.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Domain.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Service\bin\Debug\net6.0\Infrastructure.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Service\obj\Debug\net6.0\Service.csproj.CopyComplete

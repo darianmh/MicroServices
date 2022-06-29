@@ -1,0 +1,17 @@
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\WebCore.deps.json
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\WebCore.dll
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\WebCore.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\Domain.dll
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\Infrastructure.dll
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\Domain.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\bin\Release\net6.0\Infrastructure.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.csproj.AssemblyReference.cache
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.AssemblyInfoInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.AssemblyInfo.cs
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.csproj.CoreCompileInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.csproj.CopyComplete
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.dll
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\refint\WebCore.dll
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\WebCore.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\WebCore\obj\Release\net6.0\ref\WebCore.dll

@@ -1,0 +1,12 @@
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\bin\Release\net6.0\Infrastructure.deps.json
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\bin\Release\net6.0\Infrastructure.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\bin\Release\net6.0\Infrastructure.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.AssemblyInfo.cs
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\refint\Infrastructure.dll
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\Infrastructure.pdb
+D:\KashfiProjects\DarianTestServices\MainCore\Infrastructure\obj\Release\net6.0\ref\Infrastructure.dll
